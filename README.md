@@ -12,3 +12,7 @@
 
 📫 **How to Reach Me**: **[Gmail](mailto:yraheenah500@gmail.com)** | **[Instagram](https://www.instagram.com/raheena_h/)** | **[LinkedIn](https://www.linkedin.com/in/mohammed-raheenat/)** | **[GitHub](https://github.com/raheenah)**
 
+
+![Raheenah's Grade Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raheenah&theme=default)
+
+
