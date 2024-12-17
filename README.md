@@ -13,8 +13,10 @@
 📫 **How to Reach Me**: **[Gmail](mailto:yraheenah500@gmail.com)** | **[Instagram](https://www.instagram.com/raheena_h/)** | **[LinkedIn](https://www.linkedin.com/in/mohammed-raheenat/)** | **[GitHub](https://github.com/raheenah)**
 
 
-![Raheenah's Grade Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raheenah&theme=radical)
+![Raheenah's Grade Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raheenah&theme=2077)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raheenah&layout=compact&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github)
+
 
 
 
