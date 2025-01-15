@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Raheenah.
+# 👋 Hi, I’m Raheenah,
 
 💡 **Fun fact**: I'm a passionate Software Developer with a focus on building scalable, user-friendly applications using modern web technologies.
 
