@@ -10,7 +10,7 @@
 
 💞️ **Goals**: To build scalable, high-performance web applications and collaborate with other developers on meaningful projects.
 
-📫 **How to Reach Me**: **[Gmail](mailto:yraheenah500@gmail.com)** | **[Instagram](https://www.instagram.com/raheena_h/)** | **[LinkedIn](https://www.linkedin.com/in/mohammed-raheenat/)** | **[GitHub](https://github.com/raheenah)** | **[Twitter](https://x.com/raheena_h?s=11))**
+📫 **How to Reach Me**: **[Gmail](mailto:yraheenah500@gmail.com)** | **[Instagram](https://www.instagram.com/raheena_h/)** | **[LinkedIn](https://www.linkedin.com/in/mohammed-raheenat/)** | **[GitHub](https://github.com/raheenah)** | **[Twitter](https://x.com/raheena_h?s=11)**
 
 
 
