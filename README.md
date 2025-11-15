@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Raheenah,
+# 👋 Hi, I’m Raheenat,
 
 💡 **Fun fact**: I'm a passionate Software Developer with a focus on building scalable, user-friendly applications using modern web technologies.
 
@@ -17,6 +17,30 @@
 
 ### 🔤 Languages I Use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raheenah&layout=compact&theme=transparent)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheenah&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raheenah&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raheenah&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raheenah&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raheenah&theme=github)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raheenah&show_icons=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=raheenah&theme=transparent)
+
+## 🧩 GitHub Overview
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheenah&theme=github)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raheenah&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=raheenah&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raheenah&layout=compact&theme=transparent)
+
+## 📈 Yearly Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raheenah&theme=react-dark)
+
 
 
 
