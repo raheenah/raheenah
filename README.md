@@ -16,7 +16,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=raheenah&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raheenah&layout=compact&theme=transparent)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheenah&theme=react-dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheenah&theme=transparent)
 
 
 
