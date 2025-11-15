@@ -12,20 +12,13 @@
 
 📫 **How to Reach Me**: **[Gmail](mailto:yraheenah500@gmail.com)** | **[Instagram](https://www.instagram.com/raheena_h/)** | **[LinkedIn](https://www.linkedin.com/in/mohammed-raheenat/)** | **[GitHub](https://github.com/raheenah)** | **[Twitter](https://x.com/raheena_h?s=11)**
 
-
-## 🧩 GitHub Overview
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheenah&theme=transparent)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raheenah&show_icons=true&theme=transparent)
 ![GitHub Streak](https://streak-stats.demolab.com?user=raheenah&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raheenah&layout=compact&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raheenah&theme=transparent)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheenah&theme=react-dark)
 
 
-## 📈 Yearly Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raheenah&theme=react-dark)
 
 
 
