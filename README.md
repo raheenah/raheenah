@@ -25,13 +25,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raheenah&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raheenah&theme=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raheenah&show_icons=true&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=raheenah&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raheenah&show_icons=true&theme=github)
 
 ## 🧩 GitHub Overview
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheenah&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raheenah&theme=github)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raheenah&show_icons=true&theme=transparent)
 ![GitHub Streak](https://streak-stats.demolab.com?user=raheenah&theme=transparent)
