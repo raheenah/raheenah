@@ -15,6 +15,9 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raheenah&show_icons=true&theme=transparent)
 
+### 🔤 Languages I Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
 
 
 
